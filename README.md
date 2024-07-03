@@ -1,1 +1,1 @@
-# jan_git
+this is a total project 
